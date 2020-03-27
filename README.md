@@ -1,2 +1,2 @@
 # Monochromartic
-An Online Art Gallery
+An Online Monochrome Art Gallery
